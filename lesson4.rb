@@ -1,0 +1,2 @@
+name='Ueno'
+puts name
